@@ -1,0 +1,15 @@
+C:\Developmet\Projetos\C#\Iphone\bin\Debug\net6.0\Iphone.exe
+C:\Developmet\Projetos\C#\Iphone\bin\Debug\net6.0\Iphone.deps.json
+C:\Developmet\Projetos\C#\Iphone\bin\Debug\net6.0\Iphone.runtimeconfig.json
+C:\Developmet\Projetos\C#\Iphone\bin\Debug\net6.0\Iphone.dll
+C:\Developmet\Projetos\C#\Iphone\bin\Debug\net6.0\Iphone.pdb
+C:\Developmet\Projetos\C#\Iphone\obj\Debug\net6.0\Iphone.csproj.AssemblyReference.cache
+C:\Developmet\Projetos\C#\Iphone\obj\Debug\net6.0\Iphone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Developmet\Projetos\C#\Iphone\obj\Debug\net6.0\Iphone.AssemblyInfoInputs.cache
+C:\Developmet\Projetos\C#\Iphone\obj\Debug\net6.0\Iphone.AssemblyInfo.cs
+C:\Developmet\Projetos\C#\Iphone\obj\Debug\net6.0\Iphone.csproj.CoreCompileInputs.cache
+C:\Developmet\Projetos\C#\Iphone\obj\Debug\net6.0\Iphone.dll
+C:\Developmet\Projetos\C#\Iphone\obj\Debug\net6.0\refint\Iphone.dll
+C:\Developmet\Projetos\C#\Iphone\obj\Debug\net6.0\Iphone.pdb
+C:\Developmet\Projetos\C#\Iphone\obj\Debug\net6.0\Iphone.genruntimeconfig.cache
+C:\Developmet\Projetos\C#\Iphone\obj\Debug\net6.0\ref\Iphone.dll
